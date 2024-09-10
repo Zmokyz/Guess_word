@@ -2,5 +2,23 @@
     padding: 0px;
     border: 0px;
     margin: 0px;
-    
 }
+
+body {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Main_div{
+    height: 40vw;
+    width: 50vw;
+    display: flexbox;
+    background-color:white;
+    align-items: center;
+    justify-content: center;
+}
+
+
